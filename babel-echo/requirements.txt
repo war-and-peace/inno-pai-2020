@@ -27,3 +27,4 @@ six==1.15.0
 typing-extensions==3.7.4.3
 typing-inspect==0.6.0
 urllib3==1.26.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
